@@ -1,0 +1,5 @@
+{
+  "name": "NanoCanvas",
+  "description": "NanoCanvas is an infinite, intelligent canvas where your layout is the prompt. Arrange images, notes, and drawings—then let AI generate context-aware images, videos, and edits directly from your visual story.",
+  "requestFramePermissions": []
+}
